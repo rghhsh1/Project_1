@@ -7,9 +7,8 @@ liquid time-constant network"* (Journal of Food Measurement and Characterization
 ## Contents
 
 - `preprocessing/` — spectral preprocessing (smoothing, baseline, normalization)
-- `twotwod/` — 2T2D correlation spectra and horizontal slice extraction
-- `model/` — LTC-Attn network
-- `examples/run_demo.py` — end-to-end demo
+- `2T2D/` — 2T2D correlation spectra and horizontal slice extraction
+- `models/` — networks
 - `data/example/` — representative subset of the measured spectra
 
 ## Requirements
