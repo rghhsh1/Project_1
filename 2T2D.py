@@ -8,7 +8,7 @@ Dataset layout
     data/
     ├── train/  day1.xlsx ... day7.xlsx    80 spectra per day  (batch 1, shrimp 1-80)
     ├── val/    day1.xlsx ... day7.xlsx    20 spectra per day  (batch 1, shrimp 81-100)
-    └── test/   day1.xlsx ... day7.xlsx    30 spectra per day  (batch 2, shrimp 101-130)
+    └── test/   day1.xlsx ... day7.xlsx    30 spectra per day  (batch 2, shrimp 1-30)
 
 Every Excel file holds one storage day: the first column is the Raman shift and
 each remaining column is the spectrum of one shrimp, already averaged over the
