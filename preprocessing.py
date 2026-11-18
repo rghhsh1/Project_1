@@ -1,5 +1,5 @@
 """Spectral preprocessing for the shrimp storage-time prediction pipeline.
-
+ 
 The pipeline consists of three steps, applied in this order:
 
     1. Savitzky-Golay smoothing   (noise suppression)
